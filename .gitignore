@@ -1,2 +1,3 @@
+#para remover um item do monitoramento do git mesmo que esteja aplicado o git ignore: git rm -r --cached style.css
 #Diretorios
 .metadata
